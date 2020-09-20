@@ -1,0 +1,331 @@
+{
+  "teams": [
+    {
+      "WesternConference": [
+        {
+          "LosAngelesLakers": [
+            "Kostas Antetokounmpo",
+            "Avery Bradley",
+            "Devontae Cacok",
+            "Kentavious Caldwell-Pope",
+            "Alex Caruso",
+            "Quinn Cook",
+            "Anthony Davis",
+            "Jared Dudley",
+            "Danny Green",
+            "Talen Horton-Tucker",
+            "Dwight Howard",
+            "LeBron James",
+            "Kyle Kuzma",
+            "JaVale McGee",
+            "Markieff Morris",
+            "Rajon Rondo",
+            "JR Smith",
+            "Dion Waiters"
+          ]
+        },
+        {
+          "LosAngelesClippers": [
+            "Patrick Beverley",
+            "Amir Coffey",
+            "Paul George",
+            "JaMychal Green",
+            "Montrezl Harrell",
+            "Reggie Jackson",
+            "Mfiondu Kabengele",
+            "Kawhi Leonard",
+            "Terance Mann",
+            "Rodney McGruder",
+            "Macus Morris",
+            "Johnathan Motley",
+            "Joakim Noah",
+            "Patrick Patteson",
+            "Landry Shamet",
+            "Lou Williams",
+            "Ivica Zubac"
+          ]
+        },
+        {
+          "DenverNuggets": [
+            "Will Barton",
+            "Keita Bates-Diop",
+            "Bol Bol",
+            "Vlatko Cancar",
+            "Tyler Cook",
+            "Torrey Craig",
+            "Troy Daniels",
+            "PJ Dozier",
+            "Jerami Grant",
+            "Gary Harris",
+            "Nikola Jokic",
+            "Paul Millsap",
+            "Monte Morris",
+            "Jamal Murray",
+            "Mason Plumlee",
+            "Michael Porter Jr.",
+            "Noah Vonleh"
+          ]
+        },
+        {
+          "HoustonRockets": [
+            "Bruno Cabocio",
+            "DeMarre Carroll",
+            "Tyson Chandler",
+            "Chris Clemons",
+            "Robert Covington",
+            "Michael Frazier",
+            "Eric Gordon",
+            "Jeff Green",
+            "James Harden",
+            "Danuel House Jr.",
+            "William Howard",
+            "Luc Mbah a Moute",
+            "Ben McLemore",
+            "David Nwaba",
+            "Autin Rivers",
+            "Thabo Sefolosha",
+            "P.J. Tucker",
+            "Russell Westbrook"
+          ]
+        },
+        {
+          "OklahomaCityThunder": [
+            "Steven Adams",
+            "Darius Bazley",
+            "Deonte Burton",
+            "Hamidou Diallo",
+            "Luguentz Dort",
+            "Terrance Ferguson",
+            "Danilo Gallinari",
+            "Shai Gilgeous-Alexander",
+            "Devon Hall",
+            "Kevin Hervey",
+            "Mike Muscala",
+            "Abdel Nader",
+            "Nerlens Noel",
+            "Chris Paul",
+            "Andre Roberson",
+            "Isaiah Roby",
+            "Dennis Schroder"
+          ]
+        },
+        {
+          "UtahJazz": [
+            "Bojan Bogdanovic",
+            "Tony Bradley",
+            "Jarrell Brantley",
+            "Jordan Clarkson",
+            "Mike Conley",
+            "Ed Davis",
+            "Rudy Gobert",
+            "Joe Ingles",
+            "Donovan Mitchell",
+            "Juwan Morgan",
+            "Emmanuel Mudiay",
+            "Georges Niang",
+            "Royce O'Neale",
+            "Miye Oni",
+            "Rayjon Tucke",
+            "Nigel Williams-Goss",
+            "Justin Wright-Foreman"
+          ]
+        },
+        {
+          "DallasMavericks": [
+            "J.J. Barea",
+            "Jalen Brunson",
+            "Trey Burke",
+            "Willie Cauley-Stein",
+            "Antonius Cleveland",
+            "Seth Curry",
+            "Luka Doncic",
+            "Dorian Finney-Smith",
+            "Tim Hardaway Jr.",
+            "Justin Jackson",
+            "Michael Kidd-Gilchrist",
+            "Maxi Kleber",
+            "Courtney Lee",
+            "Boban Marjanovic",
+            "Kristaps Porzingis",
+            "Dwight Powell",
+            "Josh Reaves",
+            "Delon Wright"
+          ]
+        },
+        {
+          "PortlandTrailBlazers": [
+            "Jaylen Adams",
+            "Carmelo Anthony",
+            "Trevor Ariza",
+            "Moses Brown",
+            "Zach Collins",
+            "Wenyen Gabriel",
+            "Mario Hezonja",
+            "Jaylen Hoard",
+            "Rodney Hood",
+            "Damian Lillard",
+            "Nassir Little",
+            "CJ McCollum",
+            "Jusuf Nurkic",
+            "Anfernee Simons",
+            "Caleb Swanigan",
+            "Gary Trent Jr.",
+            "Hassan Whiteside"
+          ]
+        }
+      ],
+      "EasternConference": [
+        {
+          "MilwaukeeBucks": [
+            "Giannis Antetokounmpo",
+            "Thanasis Antetokounmpo",
+            "Eric Bledsoe",
+            "Sterling Brown",
+            "Pat Connaughton",
+            "Donte DiVincenzo",
+            "George Hill",
+            "Ersan Ilyasova",
+            "Kyle Korver",
+            "Brook Lopez",
+            "Robin Lopez",
+            "Frank Mason III",
+            "Wesley Matthews",
+            "Khris Middleton",
+            "Cameron Reynolds",
+            "D.J. Wilson"
+          ]
+        },
+        {
+          "BostonCeltics": [
+            "Jaylen Brown",
+            "Carsen Edwards",
+            "Tacko Fall",
+            "Javonte Green",
+            "Gordon Hayward",
+            "Enes kanter",
+            "Romeo Langford",
+            "Semi Ojeleye",
+            "Vincent Poirier",
+            "Marcus Smart",
+            "Jayson Tatum",
+            "Daniel Theis",
+            "Kemba Walker",
+            "Brad Wanamaker",
+            "Tremont Waters",
+            "Grant Williams",
+            "Robert Williams"
+          ]
+        },
+        {
+          "IndianaPacers": [
+            "Goga Bitadze",
+            "Brian Bowen II",
+            "Malcolm Brogdon",
+            "Aaron Holiday",
+            "Justin Holiday",
+            "Alize Johnson",
+            "Jeremy Lamb",
+            "T.J. Leaf",
+            "T.J. McConnell",
+            "Doug McDermott",
+            "Naz Mitrou-Long",
+            "Victor Oladipo",
+            "Domantas Sabonis",
+            "JaKarr Sampson",
+            "Edmond Sumner",
+            "Myles Turner",
+            "T.J. Warren"
+          ]
+        },
+        {
+          "MiamiHeat": [
+            "Bam Adebayo",
+            "Kyle Alexander",
+            "Jimmy Butler",
+            "Jae Crowder",
+            "Goran Dragic",
+            "Udonis Haslem",
+            "Tyler Herro",
+            "Solomon Hill",
+            "Andre Iguadala",
+            "Derrick Jones Jr.",
+            "Meyers Leonard",
+            "Kendrick Nunn",
+            "KZ Okpala",
+            "Kelly Olynyk",
+            "Duncan Robinson",
+            "Chris Silva",
+            "Gabe Vincent"
+          ]
+        },
+        {
+          "Philadelphia76ers": [
+            "Ryan Broekhoff",
+            "Alec Burks",
+            "Joel Embiid",
+            "Tobias Harris",
+            "Al Horford",
+            "Furkan Korkmaz",
+            "Shake Milton",
+            "Raul Neto",
+            "Kyle O'Quinn",
+            "Norvel Pelle",
+            "Josh Richardson",
+            "Glenn Robinson III",
+            "Mike Scott",
+            "Marial Shayok",
+            "Ben Simmons",
+            "Zhaire Smith",
+            "Matisse Thybulle"
+          ]
+        },
+        {
+          "BrooklynNets": [
+            "Jarrett Allen",
+            "Justin Anderson",
+            "Wilson Chandler",
+            "Chris Chiozza",
+            "Nicolas Claxton",
+            "Jamal Crawford",
+            "Spencer Dinwiddie",
+            "Kevin Durant",
+            "Donta Hall",
+            "Joe Harris",
+            "Kyrie Irving",
+            "Tyler Johnson",
+            "DeAndre Jordan",
+            "Rodions Kurucs",
+            "Caris LeVert",
+            "Timothe Luwawu-Cabarrot",
+            "Jeremiah Martin",
+            "Dzanan Musa",
+            "Taurean Prince",
+            "Garrett Temple",
+            "Lance Thomas"
+          ]
+        },
+        {
+          "OrlandoMagic": [
+            "Al-Farouq Aminu",
+            "D.J. Augustin",
+            "Mo Bamba",
+            "Khem Birch",
+            "Michael Carter-Williams",
+            "Gary Clark",
+            "James Ennis III",
+            "Evan Fournier",
+            "Melvin Frazier Jr.",
+            "Markelle Fultz",
+            "Aaron Gordon",
+            "Jonathan Isaac",
+            "Wes Iwundu",
+            "BJ Johnson",
+            "Vic Law",
+            "Terrence Ross",
+            "Nikola Vucevic"
+          ]
+        }
+      ]
+    }
+  ]
+}
